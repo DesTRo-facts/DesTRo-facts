@@ -8,7 +8,7 @@
 - 🚀 Always exploring the latest in Flutter to stay on the cutting edge.
 
 🔨 Tech Stack:
-Flutter | Dart | Firebase | Bloc | Provider | REST APIs
+Flutter | Dart | Firebase | Bloc | GetX | REST APIs
 
 👨‍💻 Currently diving deep into:
 - State management patterns in Flutter.
