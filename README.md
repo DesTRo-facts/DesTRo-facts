@@ -29,11 +29,17 @@ I started with Flutter and Android, then expanded into web platforms and AI syst
 
 ## Tech stack
 
-![3D Flutter, Dart, JavaScript, and TypeScript logos](assets/stack-languages-3d.png)
+<p align="center">
+  <img src="assets/stack-languages-3d.png" width="360" alt="3D Flutter, Dart, JavaScript, and TypeScript logos">
+</p>
 
-![3D React, Next.js, Node.js, and Python logos](assets/stack-frameworks-3d.png)
+<p align="center">
+  <img src="assets/stack-frameworks-3d.png" width="360" alt="3D React, Next.js, Node.js, and Python logos">
+</p>
 
-![3D PostgreSQL, Supabase, Docker, and Git logos](assets/stack-infrastructure-3d.png)
+<p align="center">
+  <img src="assets/stack-infrastructure-3d.png" width="360" alt="3D PostgreSQL, Supabase, Docker, and Git logos">
+</p>
 
 | Area | Technologies |
 | --- | --- |
